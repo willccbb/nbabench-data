@@ -1,0 +1,12 @@
+[project]
+name = "nbabench-data"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "datasets>=4.2.0",
+    "exa-py>=1.16.1",
+    "openai>=1.109.1",
+    "verifiers>=0.1.5.post0",
+]
